@@ -7,7 +7,7 @@ setup(
   description = 'requests helpers tools',   # Give a short description about your library
   author = 'Microsoft',                   # Type in your name
   author_email = 'Microsoft@aol.com',      # Type in your E-Mail
-  download_url = 'https://github.com/gboacloth/toolsrequests/archive/refs/tags/tools.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/gboacloth/toolsrequests/archive/refs/tags/tools2.tar.gz',    # I explain this later on
   install_requires=[            # I get to this in a second
           'requests',
           'beautifulsoup4',
